@@ -1,4 +1,4 @@
-Zarfoolad **Mehr Asia** Commercial Steel Cutting Co.
+ # ZarFoolad **Mehr Asia** Commercial Steel Cutting Co.
 <br></br>
 # Weclome
 Direct supply and distribution of different steel sections. Orders may be placed in quantities ranging from bulk to boutique orders from our warehouse.
@@ -9,7 +9,7 @@ Direct sales of all types of rebars, angles and steel beams from the factory and
 Selling all kinds of steel ingots with different qualities (3sp, 5sp).
 # Classification of Types of Steel Sheets
 The important thing about the types of steel sheets is that in addition to the existence of different grades of steel, there is also another division based on the type of operations carried out in the production process of the sheet.
-Firstly, use the table below to make your selection of (TODO)
+Use the table below to make your selection
 | Black sheet        | Oiled sheet             | Galvanized sheet                       | Tin plated sheet | Color sheet               | Alloy sheet     |Stainless steel sheet      |
 | :----:             |    :----:               |          :----:                        | :----:           |    :----:                 |          :----: |:----:                     |
 | ST37 Black sheet   | Stretch Oil Sheet       |  DX51D (forming and stretching grade)  | Soft             | Electrostatic color sheet | Steel alloy     |Fritti                     |
