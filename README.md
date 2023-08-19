@@ -2,7 +2,14 @@
 
 # Weclome
 Direct supply and distribution of different steel sections. Orders may be placed in quantities ranging from bulk to boutique orders from our warehouse.
-Distribution of all types of black steel sheets (hot rolled), oil (cold rolled), galvanized, colored, acid washed, alloy, stainless and ribbed steel sheets in all thicknesses and sizes.
+Distribution of all types of: 
+* black steel sheets (hot rolled),
+* oil (cold rolled),
+* galvanized, colored,
+* acid washed,
+* alloy,
+* stainless and ribbed steel sheets in all thicknesses and sizes.
+
 Bending and cutting all steel sections in desired sizes.
 Production and distribution of roof sheets (sinusoidal and trapezoidal).
 Direct sales of all types of rebars, angles and steel beams from the factory and warehouse.
