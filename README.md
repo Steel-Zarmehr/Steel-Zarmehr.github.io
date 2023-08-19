@@ -10,13 +10,13 @@ Selling all kinds of steel ingots with different qualities (3sp, 5sp).
 # Classification of Types of Steel Sheets
 The important thing about the types of steel sheets is that in addition to the existence of different grades of steel, there is also another division based on the type of operations carried out in the production process of the sheet.
 Firstly, use the table below to make your selection of (TODO)
-| Black sheet     | Oiled sheet | Galvanized sheet     | Tin plated sheet      | Color sheet | Alloy sheet     |Stainless steel sheet      |
-| :----:        |    :----:   |          :----: | :----:        |    :----:   |          :----: |:----:        |
-| ST37 Black sheet      | Stretch Oil Sheet       | Here's this   | soft      | Electrostatic color sheet | Steel alloy     |Fritti      |
-| Black sheet A516   | Semi-stretch oil sheet        | And more      | medium      | Color shutter sheet | Non-steel alloy     |Austenitic      |
-| ST52 Black sheet      | Super tensile oil sheet       | Here's this   | Hard      | Roof sheet | Superalloys     |Martensitic      |
-| Anti-wear sheets   | Text        | And more      | Syntax      | Sandwich panel sheet | Test Text     |Syntax      |
-| Acid wash sheet      | Title       | Here's this   | Syntax      | Description | Test Text     |Syntax      |
+| Black sheet        | Oiled sheet             | Galvanized sheet                       | Tin plated sheet | Color sheet               | Alloy sheet     |Stainless steel sheet      |
+| :----:             |    :----:               |          :----:                        | :----:           |    :----:                 |          :----: |:----:                     |
+| ST37 Black sheet   | Stretch Oil Sheet       |  DX51D (forming and stretching grade)  | Soft             | Electrostatic color sheet | Steel alloy     |Fritti                     |
+| Black sheet A516   | Semi-stretch oil sheet  |  DX52D (semi-tensile grade)            | Medium           | Color shutter sheet       | Non-steel alloy |Austenitic                 |
+| ST52 Black sheet   | Super tensile oil sheet |  DX53D (tensile grade)                 | Hard             | Roof sheet                | Superalloys     |Martensitic                |
+| Anti-wear sheets   |                         |  DX54D (deep drawing grade)            |                  | Sandwich panel sheet      |                 |                           |
+| Acid wash sheet    |                         |  DX56D (ultra-deep tensile grade)      |                  |                           |                 |                           |
 
 <br></br>
 ## HELLO
