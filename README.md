@@ -2,10 +2,21 @@ Zarfoolad **Mehr Asia** Commercial Steel Cutting Co.
 <br></br>
 # Weclome
 Direct supply and distribution of different steel sections. Orders may be placed in quantities ranging from bulk to boutique orders from our warehouse.
-
-
-
-
+Distribution of all types of black steel sheets (hot rolled), oil (cold rolled), galvanized, colored, acid washed, alloy, stainless and ribbed steel sheets in all thicknesses and sizes.
+Bending and cutting all steel sections in desired sizes.
+Production and distribution of roof sheets (sinusoidal and trapezoidal).
+Direct sales of all types of rebars, angles and steel beams from the factory and warehouse.
+Selling all kinds of steel ingots with different qualities (3sp, 5sp).
+# Classification of Types of Steel Sheets
+The important thing about the types of steel sheets is that in addition to the existence of different grades of steel, there is also another division based on the type of operations carried out in the production process of the sheet.
+Firstly, use the table below to make your selection of (TODO)
+| Black sheet     | Oiled sheet | Galvanized sheet     | Tin plated sheet      | Color sheet | Alloy sheet     |Stainless steel sheet      |
+| :----:        |    :----:   |          :----: | :----:        |    :----:   |          :----: |:----:        |
+| ST37 Black sheet      | Stretch Oil Sheet       | Here's this   | soft      | Electrostatic color sheet | Steel alloy     |Fritti      |
+| Black sheet A516   | Semi-stretch oil sheet        | And more      | medium      | Color shutter sheet | Non-steel alloy     |Austenitic      |
+| ST52 Black sheet      | Super tensile oil sheet       | Here's this   | Hard      | Roof sheet | Superalloys     |Martensitic      |
+| Anti-wear sheets   | Text        | And more      | Syntax      | Sandwich panel sheet | Test Text     |Syntax      |
+| Acid wash sheet      | Title       | Here's this   | Syntax      | Description | Test Text     |Syntax      |
 
 <br></br>
 ## HELLO
